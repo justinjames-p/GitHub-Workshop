@@ -1,8 +1,4 @@
-![Hacktoberfest UW Banner](resources/img/hacktoberfest_banner.jpg)
-
----
-
-To celebrate Hacktoberfest 2018, we will all be contributing to an “open source” story! No programming required and have fun writing!
+Tonight, we will all be contributing to an “open source” story! No programming required and have fun writing!
 
 ## Story Prompt
 By some clerical error in WaterlooWorks, our protagonist got an offer from a big tech company as a Junior Software Developer. They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  Write an day’s entry in their journal, as our protagonist fakes it till they make it!
@@ -10,27 +6,25 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 ## Instructions Checklist
 1.	If you do not have a Github account, [follow this guide to create one](resources/github_signup_instructions.md).
 
-2.	[Register for Hacktoberfest using this guide](resources/hacktoberfest_signup_instructions.md).
+2.	[Enter your name](http://bit.ly/2C3XZ0t) next to the day you want to write for in our protagonist’s diary.
 
-3.	[Enter your name](http://bit.ly/2C3XZ0t) next to the day you want to write for in our protagonist’s diary.
+3.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “GitHub-Workshop” repo.
 
-4.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “hacktoberfest-2018” repo.
+4.	[Watch the first 5 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo.
 
-5.	[Watch the first 5 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo.
+5. Create a branch with a name structured “day#” with the day you chose in step 2.
 
-6. Create a branch with a name structured “day#” with the day you chose in step 3.
+6. Within this branch, write a diary entry using [this template](resources/diary_entry_template.md), and commit your change.
 
-7. Within this branch, write a diary entry using [this template](resources/diary_entry_template.md), and commit your change.
-
-8. [Read this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) on how to make a pull request, then make a pull request that looks similar to the following image.
+7. [Read this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) on how to make a pull request, then make a pull request that looks similar to the following image.
 
 ![PR settings](resources/img/pull-request-settings.png)
 
-9.	Let someone on the committee know about your pull request so they can approve it
-10.	See your contribution made under the branch named “master” in the Coffee ‘N Cod repo (not your forked repo)
+8.	Let someone on the Coffee 'N Code committee know about your pull request so they can approve it
+9.	See your contribution made under the branch named “master” in the Coffee ‘N Code repo (not your forked repo)
 
-11. ???
-12. Profit $$$
+10. ???
+11. Profit $$$
 
 ## Additional Resources to Learn Git/GitHub
 1. [Interactive Git Tutorial](https://learngitbranching.js.org/)
