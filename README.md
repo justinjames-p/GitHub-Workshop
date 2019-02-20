@@ -10,7 +10,7 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 
 3.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “GitHub-Workshop” repo.
 
-4.	[Watch the first 5 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo.
+4.	[Watch the first 2 min of this video](https://www.youtube.com/watch?v=OVQK2zzb6U8) on how to make a new branch and commit changes to your forked repo. Don't make a pull request yet! Also, don't make changes to master (which happens after 2min in the video)
 
 5. Create a branch with a name structured “day#” with the day you chose in step 2.
 
@@ -22,9 +22,6 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 
 8.	Let someone on the Coffee 'N Code committee know about your pull request so they can approve it
 9.	See your contribution made under the branch named “master” in the Coffee ‘N Code repo (not your forked repo)
-
-10. ???
-11. Profit $$$
 
 ## Additional Resources to Learn Git/GitHub
 1. [Interactive Git Tutorial](https://learngitbranching.js.org/)
