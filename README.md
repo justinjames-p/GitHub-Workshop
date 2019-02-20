@@ -14,7 +14,7 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 
 5. Create a branch with a name structured “day#” with the day you chose in step 2.
 
-6. Within this branch, write a diary entry using [this template](resources/diary_entry_template.md), and commit your change.
+6. Within this branch, write a diary entry using [this template](resources/diary_entry_template.md), and commit your change. Make sure to write inside of the `journal-month-2.txt` file.
 
 7. [Read this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) on how to make a pull request, then make a pull request that looks similar to the following image.
 
