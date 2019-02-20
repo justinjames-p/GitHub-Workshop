@@ -6,7 +6,7 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 ## Instructions Checklist
 1.	If you do not have a Github account, [follow this guide to create one](resources/github_signup_instructions.md).
 
-2.	[Enter your name](http://bit.ly/2C3XZ0t) next to the day you want to write for in our protagonist’s diary.
+2.	[Enter your name](https://docs.google.com/spreadsheets/d/1jX5_B1G1B_GjkmPvmIskL9Yf9rEK7pPXqBimppRRylw/edit?usp=sharing) next to the day you want to write for in our protagonist’s diary.
 
 3.	[Watch this video](https://www.youtube.com/watch?v=f5grYMXbAV0) on how to fork a repository, then fork the Coffee ‘N Code “GitHub-Workshop” repo.
 
