@@ -1,8 +1,8 @@
-## Day [ DAY NUMBER HERE ]
+## Day 10
 
 Dear Diary,
 
-[ JOURNAL ENTRY HERE... ]
+Man... I have no idea what is going on. As a result, all i do is eat snacks all day. So I decided to come to UW Coffee 'n Code's GitHub tutorial to at least learn something. Hopefully someone can help me. 
 
-_written by: [ YOUR NAME HERE ]_
+_written by: Justin Penaranda
 ___
