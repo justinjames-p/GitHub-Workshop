@@ -3,3 +3,12 @@ By some clerical error in WaterlooWorks, our protagonist got an offer from a big
 They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  
 They have now been working at this company for 1 month, and they might be starting to get the hang of things.
 Write a day’s entry in their journal, as our protagonist fakes it till they make it!
+
+## Day 10
+
+Dear Diary,
+
+Oh man, I have no idea what's happening at work..... All i do is eat the free food. So i decided to go to UW Coffee n' Code's GitHub workshop so that I could actually learn something!
+
+_written by: Justin Penaranda_
+___
