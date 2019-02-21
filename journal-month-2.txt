@@ -4,7 +4,9 @@ They know they are surely under-qualified, but what-the-hey, the proposition for
 They have now been working at this company for 1 month, and they might be starting to get the hang of things.
 Write a day’s entry in their journal, as our protagonist fakes it till they make it!
 
-=======
+
+
+
 Day 1:
 
 Dear Diary,
@@ -16,3 +18,12 @@ Day 6:
 Dear diary,
 Today I pretended to understand what my co-worker was doing. Apparently, it was something called coding.
 written by Nidhi
+
+## Day 10
+
+Dear Diary,
+
+Oh man, I have no idea what's happening at work..... All i do is eat the free food. So i decided to go to UW Coffee n' Code's GitHub workshop so that I could actually learn something!
+
+_written by: Justin Penaranda_
+___
