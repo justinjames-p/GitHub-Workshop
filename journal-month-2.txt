@@ -5,7 +5,10 @@ They have now been working at this company for 1 month, and they might be starti
 Write a day’s entry in their journal, as our protagonist fakes it till they make it!
 
 
-=======
+
+
+
+
 Day 1:
 
 Dear Diary,
@@ -20,3 +23,9 @@ I was unfortunatly assigned to a project and I could not understand what the com
 
 
 Written by: Andrea
+
+Day 6:
+
+Dear diary,
+Today I pretended to understand what my co-worker was doing. Apparently, it was something called coding.
+written by Nidhi
